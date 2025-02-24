@@ -11,6 +11,7 @@
       ],
       "settings": {
         "coqtop.binPath" : "/home/coq/.opam/default/bin",
+        "files.autoSave": "off",
         "files.exclude": {
           "**/*.vo": true,
           "**/*.vok": true,
