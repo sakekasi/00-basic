@@ -11,7 +11,7 @@
       ],
       "settings": {
         "lean-vacuum.language": "coq",
-        "lean-vacuum.pushOnSave": false,
+        "lean-vacuum.pushOnSave": true,
         "coqtop.binPath" : "/home/coq/.opam/default/bin",
         "files.autoSave": "off",
         "files.exclude": {
