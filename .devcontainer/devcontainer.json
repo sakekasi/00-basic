@@ -10,7 +10,7 @@
         "KyleThompson.lean-vacuum"
       ],
       "settings": {
-        "lean-vacuum.langauge": "coq",
+        "lean-vacuum.language": "coq",
         "lean-vacuum.pushOnSave": false,
         "coqtop.binPath" : "/home/coq/.opam/default/bin",
         "files.autoSave": "off",
